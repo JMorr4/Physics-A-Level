@@ -34,3 +34,5 @@ The table should include the intitial velocity, the final velocity, the time and
 ### Safety Considerations
 
 ### Error Considerations
+
+Error in calculating velocity.
