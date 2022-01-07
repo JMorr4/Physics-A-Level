@@ -33,7 +33,9 @@ The formulas we'll be using for the PAG are listed as follows:
 
 ### Hypothesis
 
-The practical involves a toy car being pushed down a wooden ramp.
+The practical involves a toy car being pushed down a wooden ramp. The surface the block is pushed on and the block material should stay constant so that the
+frictional force varies as little as possible. 
+
 
 ### Results
 
@@ -43,4 +45,7 @@ The table should include the intitial velocity, the final velocity, the time and
 
 ### Error Considerations
 
-Error in calculating velocity.
+Various errors in equipment. Human errors involving:
+- Errors in calculating velocity.
+- Errors in measuring.
+- Errors when potentially adding force when placing the car at the top of the ramp.
