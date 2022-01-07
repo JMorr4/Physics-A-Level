@@ -30,18 +30,18 @@ The formulas we'll be using for the PAG are listed as follows:
 - Push the block and record the position at which it stops.
 - Record the average starting velocity and the corresponding distance between the light gate and the stopping point (stopping distance), in a table. 
 
-
 ### Hypothesis
 
 The practical involves a toy car being pushed down a wooden ramp. The surface the block is pushed on and the block material should stay constant so that the
 frictional force varies as little as possible. 
-
 
 ### Results
 
 The table should include the intitial velocity, the final velocity, the time and the distance.
 
 ### Safety Considerations
+
+Wear goggles in case a toy car is thrown at your eyes.
 
 ### Error Considerations
 
