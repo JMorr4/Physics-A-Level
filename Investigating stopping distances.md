@@ -39,6 +39,9 @@ frictional force varies as little as possible.
 
 The table should include the intitial velocity, the final velocity, the time and the distance.
 
+![image](https://user-images.githubusercontent.com/90699946/150414698-6f4390d4-7f29-4a4b-8652-f481be11c5d4.png)
+
+
 ### Safety Considerations
 
 Wear goggles in case a toy car is thrown at your eyes.
