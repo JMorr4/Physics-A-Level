@@ -93,7 +93,10 @@ v	| v^2 |	m
 0.688	|0.473344	|0.738
 0.749	|0.561001	|0.834
 
-Here is our data represented by a graph:
+### Graph of Data
+
+Here is our data represented by a graph. The trend is generally positive, with generally accurate results and one major anomoly.
+
 ![image](https://user-images.githubusercontent.com/90699946/150414698-6f4390d4-7f29-4a4b-8652-f481be11c5d4.png)
 
 <br>
