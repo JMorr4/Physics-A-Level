@@ -7,9 +7,10 @@ The PAG (Practial Assessment Group) which will be carried out next lesson will b
 
 ### Equipment
 - Metre ruler
-- Wooden Blocks
+- Crank stand
 - Light gate
-- Interruptor card/piece of card 10x10cm
+- Interruptor card/piece of card 6x6cm
+- Toy car
 
 
 ### Theory
@@ -32,12 +33,12 @@ The formulas we'll be using for the PAG are listed as follows:
 
 ### Hypothesis
 
-The practical involves a toy car being pushed down a wooden ramp. The surface the block is pushed on and the block material should stay constant so that the
-frictional force varies as little as possible. 
+The practical involves a toy car being pushed along a flat surface. The surface the car is pushed on and the car mass should stay constant so that the
+frictional force varies as little as possible, and the results can remain accurate.
 
 ### Results
 
-The table should include the intitial velocity, the final velocity, the time and the distance.
+The table should include the intitial velocity, the final velocity and the distance.
 
 v	| v^2 |	m
 ------------ | ------------- | ---------
