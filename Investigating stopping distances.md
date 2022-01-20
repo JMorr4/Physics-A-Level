@@ -24,11 +24,11 @@ The formulas we'll be using for the PAG are listed as follows:
 
 ### Method
 
-- A vehicle is modelled by the block of wood which is pushed and decelerates due to friction with the surface it moves on.
-- Glue the 10 x 10 cm interruptor card to the side of the block of wood so that the time for the width of the card to pass through the gate is recorded. The interruptor card allows the distance moved through the light gate to be fixed, as it registers with the light gate easily without the light gate interrupting the block’s motion.
-- Set up the light gate such that it records the average starting velocity of the block moving through it (speed = 0.1 m/time for card to move through in seconds).
-- Record the starting position of the block and position the light gate 2 cm after this point.
-- Push the block and record the position at which it stops.
+- A vehicle is modelled by the car which is pushed and decelerates due to friction with the surface it moves on.
+- Attach the 6 x 6 cm interruptor card to the side of the car so that the time for the width of the card to pass through the gate is recorded. The interruptor card allows the distance moved through the light gate to be fixed, as it registers with the light gate easily without the light gate interrupting the car’s motion.
+- Set up the light gate such that it records the average starting velocity of the car moving through it (speed = 0.1 m/time for card to move through in seconds).
+- Record the starting position of the car and position the light gate 2 cm after this point.
+- Push the car and record the position at which it stops.
 - Record the average starting velocity and the corresponding distance between the light gate and the stopping point (stopping distance), in a table. 
 
 ### Hypothesis
@@ -107,4 +107,5 @@ Wear goggles in case a toy car is thrown at your eyes.
 Various errors in equipment. Human errors involving:
 - Errors in calculating velocity.
 - Errors in measuring.
-- Errors when potentially adding force when placing the car at the top of the ramp.
+- Errors when potentially adding force when pushing the car along the surface.
+- Errors in mis-directional velocity; The car is likely to be pushed at an angle to the ruler.
