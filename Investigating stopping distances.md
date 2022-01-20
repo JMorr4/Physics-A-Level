@@ -39,8 +39,6 @@ frictional force varies as little as possible.
 
 The table should include the intitial velocity, the final velocity, the time and the distance.
 
-![image](https://user-images.githubusercontent.com/90699946/150414698-6f4390d4-7f29-4a4b-8652-f481be11c5d4.png)
-
 v	| v^2 |	m
 ------------ | ------------- | ---------
 0.498	|0.248004	|0.46|
@@ -94,6 +92,10 @@ v	| v^2 |	m
 0.688	|0.473344	|0.738
 0.749	|0.561001	|0.834
 
+Here is our data represented by a graph:
+![image](https://user-images.githubusercontent.com/90699946/150414698-6f4390d4-7f29-4a4b-8652-f481be11c5d4.png)
+
+<br>
 
 ### Safety Considerations
 
