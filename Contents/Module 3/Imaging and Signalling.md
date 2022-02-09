@@ -50,7 +50,9 @@ Converging lens mean that the rays intersect at the focal point, causing a **rea
 
 <br>
 
-### Information in images
+## Information in Images
+
+### Changing Images
 
 Each pixel in an image holds a binary value which corresponds to a colour. This binary value can be changed or altered to change the pixel colour. This can be useful when analysing images.
 
