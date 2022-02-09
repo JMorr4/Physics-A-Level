@@ -1,65 +1,34 @@
 # Physics A level
-Jake Morrishs' Computer Science Blog
+Jake Morrishs' Physics
 
 [OCR Specification](https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf)
 
 [Github Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-# Contents 
-### Computer Systems - Component 1
-* **1.1 Components of a computer and their uses**
-  * [1.1.1 Structure and function of the processor](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.1.md)
-  * [1.1.2 Types of processor](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.2.md)
-  * [1.1.3 Input, output and storage](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.3.md)
 
-* **1.2 Software and software development**
-  * [1.2.1 Systems software](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
-  * 1.2.2 Applications generation
-  * [1.2.3 Software Development](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.3.md)
-  * 1.2.4 Types of programing languages
+# Contents
 
-* **1.3 Exchanging data**
-  * 1.3.1 Compression, encryption and hashing
-  * [1.3.2 Databases](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.3/1.3.2.md)
-  * 1.3.3 Networks
-  * 1.3.4 Web technologies
+### Physics - Component 1
+* **Module 3**
+  * [3.1 Imaging and Signalling](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.1.md)
+  * [3.2 Sensing](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.2.md)
+  * [3.3 Mechanical Properties of Materials](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.1/1.1.3.md)
 
-* **1.4 Data types, data structures and algorithms**
-  * 1.4.1 Data types
-  * 1.4.2 Data structures
-  * 1.4.3 Boolean Algebra
-
-* **1.5 Legal, moral, cultural and ethical issues**
-  * 1.5.1 Computing related legislation
-  * 1.5.2 Moral and ethical issues
+* **Module 4**
+  * [4.1 Waves and Quantum Behaviour](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.1.md)
+  * [4.2 Space, Time and Motion](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%201.2/1.2.3.md)
 
 <br>
 
-### Algorithms and programming - Component 2
-* **2.1 Elements of computational thinking**
-  * 2.1.1 Thinking abstractly
-  * 2.1.2 Thinking ahead
-  * 2.1.3 Thinking procedurally
-  * 2.1.4 Thinking logically
-  * 2.1.5 Thinking concurrently
+### Physics - Component 2
+* **Module 5**
+  * [5.1 Creating Models](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.2/2.2.1.md)
+  * [5.2 Out into Space](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.2/2.2.1.md)
+  * [5.3 Our Place in the Universe](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.2/2.2.1.md)
+  * [5.4 Matter: Very Simple](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.2/2.2.1.md)
+  * [5.5 Matter: Hot or Cold](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.2/2.2.1.md)
 
-* **2.2 Problem solving and programming**
-  * [2.2.1 Programming techniques](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.2/2.2.1.md)
-  * 2.2.2 Computational methods
-
-* **2.3 Algorithms**
-  * 2.3.1 Algorithms
-
-<br>
-
-### Coding Projects
-* **Small Tasks**
-  * [Times Tables](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Python%20Projects/Times%20Tables.md)
-  * [Recursion](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Python%20Projects/Recursion.md)
-  * [Arithmetic Test](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Python%20Projects/Arithmetic%20Test.md)
-  * [Turtle Circles](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Python%20Projects/Turtle%20Circles.md)
-  * [Classes and Buttons](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Python%20Projects/Classes%20and%20Buttons.md)
-
-* **Larger Projects**
-  * [BlackJack](https://github.com/JMorr4/Computer-Science/blob/main/Contents/BlackJack%20Project/BlackJack.md)
-  * [Space Invaders](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Python%20Projects/Space%20Invaders.md)
-  * [Farm](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Python%20Projects/Farm%20Project/Farm.md)
+* **Module 6**
+  * [6.1 Electromagnetism](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.2/2.2.1.md)
+  * [6.2 Charge and Field](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.2/2.2.1.md)
+  * [6.3 Probing deep into Matter](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.2/2.2.1.md)
+  * [6.4 Ionising Radiation and Risk](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.2/2.2.1.md)
