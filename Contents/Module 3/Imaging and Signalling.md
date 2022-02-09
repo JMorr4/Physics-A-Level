@@ -58,6 +58,7 @@ Key terms:
 - **Contrast** - Increasing contrast is achieved by multiplying the binary values by a fixed value.
 - **False Colour** - Adding false colour to an image can highlight features, like changing black and white to blue and green on maps.
 - **Noise** - Noise is unwanted interference affecting a signal. In images this means bright or dark spots on the picture. Noise can be reduced by replacing pixels with the **mean** of their neighbours.
+- **Edge detection** - When finding out whether your image is just a load of noise, or if there's actually an object in it, edge detection is used to map out just the lines surrounding the object.
 
 
 
