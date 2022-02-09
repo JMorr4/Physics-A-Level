@@ -44,7 +44,20 @@ Lenses add **curvature** to waves as they pass through it. The thicker the lens 
   - Converging lens curve the wave towards the focal point
   - Diverging lens curve the wave away from the focal point
 
+<br>
 
+Converging lens mean that the rays intersect at the focal point, causing a **real** image, whereas diverging lens mean that the rays never intersect, causing a **virtual** image.
+
+<br>
+
+### Information in images
+
+Each pixel in an image holds a binary value which corresponds to a colour. This binary value can be changed or altered to change the pixel colour. This can be useful when analysing images.
+
+Key terms:
+- **Contrast** - Increasing contrast is achieved by multiplying the binary values by a fixed value.
+- **False Colour** - Adding false colour to an image can highlight features, like changing black and white to blue and green on maps.
+- **Noise** - Noise is unwanted interference affecting a signal. In images this means bright or dark spots on the picture. Noise can be reduced by replacing pixels with the **mean** of their neighbours.
 
 
 
