@@ -30,3 +30,23 @@ A **transverse** wave oscillates perpendicular to the direction of energy transf
 A **polarised** wave oscillates only in one direction. Polarisation can only occur to transverse waves. When transverse waves, like light, pass through a polarisation filter, they become polarised. Two polarisation filters set up at right angles to each other will block out all light, as all directions of energy transfer is blocked.
 
 In the case of microwaves, polarising filters are ineffective, as their wavelengths are too long. Instead **metal grilles** are used to polarise them.
+
+<br>
+
+### Forming images with lenses
+
+**Refraction** occurs when a wave changes speed at a boundary. When a ray of light meets a boundary between one medium and another, some of its energy is lost and reflected back into the first medium, and the rest is transmitted through the second medium. This loss of energy reduces the wave speed, causing refraction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
