@@ -7,7 +7,7 @@ Almost all information is transferred by waves. **Progressive** waves carry ener
 - **X-rays** and **gamma rays** knock electrons out of their orbits, causing **ionisation**
 - Loud sounds make things vibrate
 
-Since waves carry energy away, the source of the wave loses energy. Waves have many aspects that can be difficult to remember:
+Since waves carry energy away, the source of the wave loses energy. Waves have many key terms that can be difficult to remember:
 - **Displacement** - How far a point on the wave has moved from its undisturbed position
 - **Amplitude** - The maximum displacement
 - **Wavelength** - The length of one wave
@@ -36,6 +36,11 @@ In the case of microwaves, polarising filters are ineffective, as their waveleng
 ### Forming images with lenses
 
 **Refraction** occurs when a wave changes speed at a boundary. When a ray of light meets a boundary between one medium and another, some of its energy is lost and reflected back into the first medium, and the rest is transmitted through the second medium. This loss of energy reduces the wave speed, causing refraction.
+
+**Lenses** are useful in investigating the properties of light. There are several key terms concerning lenses that has to be understood:
+- 
+
+Lenses add **curvature** to waves as they pass through it. The thicker the lens is, the more curvature is added to the wave.
 
 
 
