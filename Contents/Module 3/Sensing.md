@@ -22,3 +22,5 @@ In **plastic deformation**:
 If forces stretch a material, they are **tensile**. If they squash a material, they are **compressive**:
 - Stress is defined as the tension divided by the cross-sectional area, and is measured in **Newton Metres squared** or **Pascals**. 
 - Strain is defined as the extension divided by the original length of the material. It has no units, instead it's measured as a **percentage**.
+
+A stress big enough to break a material is called **fracture stress**. The effect of stress pulls atoms away from each other, and in fracture stress, this effect is strong enough to seperate these atoms completely. The point before a material breaks is called the **ultimate tensile strength**. This is the maximum stress a material can withstand before breaking.
