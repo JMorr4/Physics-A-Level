@@ -1,14 +1,33 @@
 # Resistivity Practical Write-up
 
 ## Objective
+The objective of our experiment is to investigate
 
 ## Equipment
+- Power pack
+- Crocodile clips
+- Black and red cables
+- Metre ruler
+- Electric tape
+- Ammeter
+- Voltmeter
+- Copper wire, Nickel wire, and thicker nickel wire, with diameters shown below:
+
+![image](https://user-images.githubusercontent.com/90699946/161150743-32f3353e-8f86-46f4-8b71-51a1d9810ab0.png)
+![image](https://user-images.githubusercontent.com/90699946/161150780-80e10613-0cac-4e65-8d86-aef2f36f6579.png)
+![image](https://user-images.githubusercontent.com/90699946/161150814-e9ddc771-623d-47cc-b8e4-8b928bab69ee.png)
+
 
 ## Safety Measures
 
 ## Method
 
 ## Results
+![image](https://user-images.githubusercontent.com/90699946/161151668-0b97abbe-c085-451e-8762-c1ab3a6ff4b2.png)
+![image](https://user-images.githubusercontent.com/90699946/161151703-2c575251-c6d9-492d-ab05-f597c12576a1.png)
+![image](https://user-images.githubusercontent.com/90699946/161151757-fc84f9f0-770a-4554-bfd1-53fb6de05bfe.png)
+
+
 
 ## Analysis
 
