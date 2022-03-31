@@ -22,11 +22,13 @@ The objective of our experiment is to investigate the resistance of different wi
 <br>
 
 ## Safety Measures
-Risk of falling over other people's feet.
+Risk of electrocution from forgetting to turn off the power pack after readings, and touching the live wire.
 
 <br>
 
 ## Method
+1) Set up the circuit, connecting the ammeter in series and the voltmeter in parallel to the wire.
+2) Attach the two crocodile clips on the end of each cable, then connect the clips to the wire, 10cm apart.
 
 <br>
 
