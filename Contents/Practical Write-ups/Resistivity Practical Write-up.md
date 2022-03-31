@@ -29,6 +29,10 @@ Risk of electrocution from forgetting to turn off the power pack after readings,
 ## Method
 1) Set up the circuit, connecting the ammeter in series and the voltmeter in parallel to the wire.
 2) Attach the two crocodile clips on the end of each cable, then connect the clips to the wire, 10cm apart.
+3) Turn on the power pack to 3V, and take the readings from the ammeter and voltmeter.
+4) Turn off power pack, record the results, including the length between the crocodile clips, and shift one of the clips another 10cm away from the other.
+5) Repeat steps 3-4 until a reading of length a metre has been recorded.
+6) Change wires and repeat steps 1-5.
 
 <br>
 
