@@ -42,11 +42,11 @@ Risk of electrocution from forgetting to turn off the power pack after readings,
 ## Analysis
 In order to work out the resistivity of the wire, first I had to calculate the resistance using the voltage and current values obtained earlier. To do this, I used the equation triangle shown below.
 
-![image](https://user-images.githubusercontent.com/90699946/161161919-e9878925-be35-449b-8e8e-567fcf426d7b.png)
+<img src="https://user-images.githubusercontent.com/90699946/161161919-e9878925-be35-449b-8e8e-567fcf426d7b.png" width="120" height="120">
 
 With the resistance, I could now plug my values into this formula below (after calculating the cross-sectional area of the wire):
 
-![image](https://user-images.githubusercontent.com/90699946/161161872-c22ab518-8cab-40bc-940d-c5d4eb5906c1.png)
+<img src="https://user-images.githubusercontent.com/90699946/161161872-c22ab518-8cab-40bc-940d-c5d4eb5906c1.png" width="150" height="100">
 
 
 <br>
