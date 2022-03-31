@@ -35,16 +35,22 @@ Risk of electrocution from forgetting to turn off the power pack after readings,
 <br>
 
 ## Results
-![image](https://user-images.githubusercontent.com/90699946/161151668-0b97abbe-c085-451e-8762-c1ab3a6ff4b2.png)
-![image](https://user-images.githubusercontent.com/90699946/161151703-2c575251-c6d9-492d-ab05-f597c12576a1.png)
-![image](https://user-images.githubusercontent.com/90699946/161151757-fc84f9f0-770a-4554-bfd1-53fb6de05bfe.png)
+![image](https://user-images.githubusercontent.com/90699946/161161815-4861898b-2276-4790-a517-2f82ef07de82.png)
 
 <br>
 
 ## Analysis
-![image](https://user-images.githubusercontent.com/90699946/161157433-4817ca1d-c26c-43fd-8fb6-3ef962b8e4c2.png)
+In order to work out the resistivity of the wire, first I had to calculate the resistance using the voltage and current values obtained earlier. To do this, I used the equation triangle shown below.
+
+![image](https://user-images.githubusercontent.com/90699946/161161919-e9878925-be35-449b-8e8e-567fcf426d7b.png)
+
+With the resistance, I could now plug my values into this formula below (after calculating the cross-sectional area of the wire):
+
+![image](https://user-images.githubusercontent.com/90699946/161161872-c22ab518-8cab-40bc-940d-c5d4eb5906c1.png)
 
 
 <br>
 
 ## Conclusions
+
+To conclude, I discovered that our results were very accurate when compared to official databases such as [**ThoughtCo**](https://www.thoughtco.com/table-of-electrical-resistivity-conductivity-608499). For example, their result for the resitivity of copper was 1.68e-8, and ours was 1.678e-8.
