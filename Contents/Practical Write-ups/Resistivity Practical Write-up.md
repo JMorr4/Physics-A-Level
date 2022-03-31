@@ -15,9 +15,7 @@ The objective of our experiment is to investigate the resistance of different wi
 - Voltmeter
 - Copper wire, Nickel wire, and thicker nickel wire, with diameters shown below:
 
-![image](https://user-images.githubusercontent.com/90699946/161150743-32f3353e-8f86-46f4-8b71-51a1d9810ab0.png)
-![image](https://user-images.githubusercontent.com/90699946/161150780-80e10613-0cac-4e65-8d86-aef2f36f6579.png)
-![image](https://user-images.githubusercontent.com/90699946/161150814-e9ddc771-623d-47cc-b8e4-8b928bab69ee.png)
+![image](https://user-images.githubusercontent.com/90699946/161160719-cb1afdb3-d684-4521-be57-375a63e3dce0.png)
 
 <br>
 
@@ -44,6 +42,8 @@ Risk of electrocution from forgetting to turn off the power pack after readings,
 <br>
 
 ## Analysis
+![image](https://user-images.githubusercontent.com/90699946/161157433-4817ca1d-c26c-43fd-8fb6-3ef962b8e4c2.png)
+
 
 <br>
 
