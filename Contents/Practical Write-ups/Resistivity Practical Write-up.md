@@ -1,7 +1,9 @@
 # Resistivity Practical Write-up
 
 ## Objective
-The objective of our experiment is to investigate
+The objective of our experiment is to investigate the resistance of different wires.
+
+<br>
 
 ## Equipment
 - Power pack
@@ -17,18 +19,26 @@ The objective of our experiment is to investigate
 ![image](https://user-images.githubusercontent.com/90699946/161150780-80e10613-0cac-4e65-8d86-aef2f36f6579.png)
 ![image](https://user-images.githubusercontent.com/90699946/161150814-e9ddc771-623d-47cc-b8e4-8b928bab69ee.png)
 
+<br>
 
 ## Safety Measures
+Risk of falling over other people's feet.
+
+<br>
 
 ## Method
+
+<br>
 
 ## Results
 ![image](https://user-images.githubusercontent.com/90699946/161151668-0b97abbe-c085-451e-8762-c1ab3a6ff4b2.png)
 ![image](https://user-images.githubusercontent.com/90699946/161151703-2c575251-c6d9-492d-ab05-f597c12576a1.png)
 ![image](https://user-images.githubusercontent.com/90699946/161151757-fc84f9f0-770a-4554-bfd1-53fb6de05bfe.png)
 
-
+<br>
 
 ## Analysis
+
+<br>
 
 ## Conclusions
