@@ -1,6 +1,4 @@
 # Physics A level
-Jake Morrishs' Physics
-
 [OCR Specification](https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf)
 
 [Github Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
