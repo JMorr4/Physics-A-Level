@@ -1,5 +1,5 @@
 # Physics A level
-[OCR Specification](https://www.ocr.org.uk/Images/170844-specification-accredited-a-level-gce-computer-science-h446.pdf)
+[OCR Specification](https://www.ocr.org.uk/Images/171729-specification-accredited-a-level-gce-physics-b-advancing-physics-h557.pdf)
 
 [Github Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
