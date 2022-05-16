@@ -8,8 +8,8 @@
 ### Physics - Component 1
 * **Module 3**
   * [3.1 Imaging and Signalling](https://github.com/JMorr4/Physics-A-Level/blob/main/Contents/Module%203/Imaging%20and%20Signalling.md)
-  * [3.2 Sensing](https://github.com/JMorr4/Physics-A-Level/blob/main/Contents/Module%203/Mechanical%20Properties%20of%20Materials.md)
-  * [3.3 Mechanical Properties of Materials](https://github.com/JMorr4/Physics-A-Level/blob/main/Contents/Module%203/Sensing.md)
+  * [3.2 Sensing](https://github.com/JMorr4/Physics-A-Level/blob/main/Contents/Module%203/Sensing.md)
+  * [3.3 Mechanical Properties of Materials](https://github.com/JMorr4/Physics-A-Level/blob/main/Contents/Module%203/Mechanical%20Properties%20of%20Metals.md)
 
 * **Module 4**
   * [4.1 Waves and Quantum Behaviour](https://github.com/JMorr4/Physics-A-Level/blob/main/Contents/Module%204/Space%2C%20time%20and%20motion.md)
