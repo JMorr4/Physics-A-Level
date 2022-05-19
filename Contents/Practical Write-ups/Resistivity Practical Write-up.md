@@ -20,7 +20,7 @@ The objective of our experiment is to investigate the resistance of different wi
 <br>
 
 ## Safety Measures
-Risk of electrocution from forgetting to turn off the power pack after readings, and touching the live wire.
+Potential for equipment to overheat from forgetting to turn off the power pack after readings, and possible electrocution from touching the live wire.
 
 <br>
 
