@@ -1,13 +1,44 @@
 # Imaging and Signalling
 
+## Curvature
+
+Waves passing through lenses are given **curvature**, centred on the **focal point** of the lens. The thicker the lens is, the more curvature is added to the wave.
+
+![image](https://user-images.githubusercontent.com/90699946/169605067-d06ffbbc-0a69-4d7c-9719-23746d1a3d07.png)
+
+<img src= "https://latex.codecogs.com/svg.latex?\Large&space;curvature=\frac{1}{radius}" />
+
+There are several key terms concerning lenses that has to be understood:
+- The **focal length** is the distance between the focal point and the lens.
+- The more powerful a lens is, the more curvature it adds to waves that pass through it. Lens power is measured in **dioptres**.
+- There are two types of lens; **Converging** lens and **diverging** lens:
+  - Converging lens curve the wave towards the focal point
+  - Diverging lens curve the wave away from the focal point
+
+
+
+
+
+
+
+
+
+<br>
+
+<br>
+
+<br>
+
+# Imaging and Signalling
+
+**Refraction** occurs when a wave changes speed at a boundary. When a ray of light meets a boundary between one medium and another, some of its energy is lost and reflected back into the first medium, and the rest is transmitted through the second medium. This loss of energy reduces the wave speed, causing refraction.
+
 ## Nature of Waves
 
 Almost all information is transferred by waves. **Progressive** waves carry energy away from its source without transferring any material. Ways to tell if a wave carries energy are:
 - **Electromagnetic** waves cause things to heat up
 - **X-rays** and **gamma rays** knock electrons out of their orbits, causing **ionisation**
 - Loud sounds make things vibrate
-
-<img src= "https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 Since waves carry energy away, the source of the wave loses energy. Waves have many key terms that can be difficult to remember:
 - **Displacement** - How far a point on the wave has moved from its undisturbed position
