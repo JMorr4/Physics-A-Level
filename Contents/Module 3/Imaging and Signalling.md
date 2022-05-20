@@ -9,7 +9,7 @@ Waves passing through lenses are given **curvature**, centred on the **focal poi
 
 There are several key terms concerning lenses that has to be understood:
 
-<img src="https://user-images.githubusercontent.com/90699946/169605067-d06ffbbc-0a69-4d7c-9719-23746d1a3d07.png" align="right" width="250px"/>
+<img src="![image](https://user-images.githubusercontent.com/90699946/169606997-9ab798e5-8be2-448e-af48-baeafcb208e4.png)" align="right" width="250px"/>
 
 - The **focal length** is the distance between the focal point and the lens.
 - The more powerful a lens is, the more curvature it adds to waves that pass through it. Lens power is measured in **dioptres**.
