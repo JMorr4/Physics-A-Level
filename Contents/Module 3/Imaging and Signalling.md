@@ -7,6 +7,8 @@ Almost all information is transferred by waves. **Progressive** waves carry ener
 - **X-rays** and **gamma rays** knock electrons out of their orbits, causing **ionisation**
 - Loud sounds make things vibrate
 
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-2ac}}{5b}" />
+
 Since waves carry energy away, the source of the wave loses energy. Waves have many key terms that can be difficult to remember:
 - **Displacement** - How far a point on the wave has moved from its undisturbed position
 - **Amplitude** - The maximum displacement
