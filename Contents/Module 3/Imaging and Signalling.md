@@ -5,15 +5,20 @@
 
 Waves passing through lenses are given **curvature**, centred on the **focal point** of the lens. The thicker the lens is, the more curvature is added to the wave.
 
-
+<br clear="right"/>
 
 There are several key terms concerning lenses that has to be understood:
 
 <img src="https://user-images.githubusercontent.com/90699946/169607039-e102be4e-fdf8-4646-af11-7eda4f728922.png" align="right" width="300px"/>
 
-
 - The **focal length** is the distance between the focal point and the lens.
 - The more powerful a lens is, the more curvature it adds to waves that pass through it. Lens power is measured in **dioptres**.
+
+<br clear="right"/>
+
+<img src= "https://latex.codecogs.com/svg.latex?\Large&space;power=\frac{1}{focalㅤlength}" align="right" width="200px"/>
+
+
 - There are two types of lens; **Converging** lens and **diverging** lens:
   - Converging lens curve the wave towards the focal point
   - Diverging lens curve the wave away from the focal point
