@@ -1,20 +1,21 @@
 # Imaging and Signalling
 
 ## Curvature
+<img src= "https://latex.codecogs.com/svg.latex?\Large&space;curvature=\frac{1}{radius}" align="right" width="200px"/>
 
 Waves passing through lenses are given **curvature**, centred on the **focal point** of the lens. The thicker the lens is, the more curvature is added to the wave.
 
-![image](https://user-images.githubusercontent.com/90699946/169605067-d06ffbbc-0a69-4d7c-9719-23746d1a3d07.png)
 
-<img src= "https://latex.codecogs.com/svg.latex?\Large&space;curvature=\frac{1}{radius}" />
 
 There are several key terms concerning lenses that has to be understood:
+
+<img src="https://user-images.githubusercontent.com/90699946/169605067-d06ffbbc-0a69-4d7c-9719-23746d1a3d07.png" align="right" width="250px"/>
+
 - The **focal length** is the distance between the focal point and the lens.
 - The more powerful a lens is, the more curvature it adds to waves that pass through it. Lens power is measured in **dioptres**.
 - There are two types of lens; **Converging** lens and **diverging** lens:
   - Converging lens curve the wave towards the focal point
   - Diverging lens curve the wave away from the focal point
-
 
 
 
