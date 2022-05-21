@@ -1,30 +1,47 @@
 # Imaging and Signalling
 
 ## Curvature
-<img src= "https://latex.codecogs.com/svg.latex?\Large&space;curvature=\frac{1}{radius}" align="right" width="200px"/>
+Waves passing through lenses are given **curvature**. The thicker the lens is, the more powerful it is, and the more curvature it adds to the wave.
 
-Waves passing through lenses are given **curvature**, centred on the **focal point** of the lens. The thicker the lens is, the more curvature is added to the wave.
+There are two types of lens:
+- **Converging** lens curve the wave towards the focal point. When these waves intersect at this point, they produce a **real image**.
+- **Diverging** lens curve the wave away from the focal point. This means the rays never intersect, causing a **virtual image**.
 
-<br clear="right"/>
+<br>
 
+### Converging lenses
 There are several key terms concerning lenses that has to be understood:
 
 <img src="https://user-images.githubusercontent.com/90699946/169607039-e102be4e-fdf8-4646-af11-7eda4f728922.png" align="right" width="300px"/>
 
+- Converging lens curve waves to a point called the **focal point**.
 - The **focal length** is the distance between the focal point and the lens.
-- The more powerful a lens is, the more curvature it adds to waves that pass through it. Lens power is measured in **dioptres**.
+- A powerful lens add more curvature to a wave. Lens power is measured in **dioptres**. The more powerful a lens is, the smaller the focal length.
+- A **converging lens** mean that the rays intersect at the focal point, causing a **real** image.
+- A **diverging lens** mean that the rays never intersect, causing a **virtual** image.
+- Waves can be modelled using a **ray diagram**, as shown on the right.
 
 <br clear="right"/>
 
-<img src= "https://user-images.githubusercontent.com/90699946/169646442-ef06b3d7-223c-45d0-8e18-5cfb816e95ba.png" align="right" width="200px"/>
+## Information in Images
 
+### Changing Images
 
-- There are two types of lens; **Converging** lens and **diverging** lens:
-  - Converging lens curve the wave towards the focal point
-  - Diverging lens curve the wave away from the focal point
+Each pixel in an image holds a binary value which corresponds to a colour. This binary value can be changed or altered to change the pixel colour. This can be useful when analysing images.
 
+| Process  | Method | Effect |
+| ------------- | ------------- | ------------- |
+| **Increasing Contrast**  | Multiplying the binary values by a fixed value |  |
+| **Increasing Brightness**  | Adding a fixed number to each pixel value | Produces a lighter image |
+| **False Colour**  | Adding false colour to an image can highlight features, like changing black and white to blue and green on maps |  |
+| **Noise Removal**  | Noise is unwanted interference affecting a signal. In images this means bright or dark spots on the picture. Noise can be reduced by replacing pixels with the **mean** of their neighbours |  |
+| **Edge detection**  | When finding out whether your image is just a load of noise, or if there's actually an object in it, edge detection is used to map out just the lines surrounding the object. |  |
 
-
+Key terms:
+- **Contrast** - Increasing contrast is achieved by multiplying the binary values by a fixed value.
+- **False Colour** - Adding false colour to an image can highlight features, like changing black and white to blue and green on maps.
+- **Noise** - Noise is unwanted interference affecting a signal. In images this means bright or dark spots on the picture. Noise can be reduced by replacing pixels with the **mean** of their neighbours.
+- **Edge detection** - When finding out whether your image is just a load of noise, or if there's actually an object in it, edge detection is used to map out just the lines surrounding the object.
 
 
 
@@ -111,7 +128,7 @@ Key terms:
 
 
 
-
+<img src= "https://latex.codecogs.com/svg.latex?\Large&space;curvature=\frac{1}{radius}" width="200px"/>
 
 
 
