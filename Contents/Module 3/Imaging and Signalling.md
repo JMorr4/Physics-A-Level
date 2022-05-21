@@ -16,7 +16,7 @@ There are several key terms concerning lenses that has to be understood:
 
 <br clear="right"/>
 
-<img src= "https://latex.codecogs.com/svg.latex?\Large&space;power=\frac{1}{focalㅤlength}" align="right" width="200px"/>
+<img src= "https://user-images.githubusercontent.com/90699946/169646442-ef06b3d7-223c-45d0-8e18-5cfb816e95ba.png" align="right" width="200px"/>
 
 
 - There are two types of lens; **Converging** lens and **diverging** lens:
