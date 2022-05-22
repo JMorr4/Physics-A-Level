@@ -36,7 +36,22 @@ Each pixel in an image holds a binary value which corresponds to a colour. This 
 | **Noise Removal**  | Replacing the value of each pixel with the mean of the pixels around it | Creates a smoother images with less bright ot dark spots |
 | **Edge detection**  | Subracting the mean value of pixels around it from a pixel value | Produces an only the outlines of an image |
 
+<br>
 
+## The Electromagnetic Spectrum
+
+### Transverse and Longitudinal Waves
+
+A **transverse** wave oscillates perpendicular to the direction of energy transfer. All **electromagnetic** waves are transverse waves. A **longitudinal** wave oscillates parallel to the direction of energy transfer. One example of a longitudinal wave is **sound**.
+
+**Intensity** is the rate of energy flow perpendicular to the direction of energy transfer, for example the sun. It is measured in **Watts per squared metre**.
+
+
+### Polarisation
+
+A **polarised** wave oscillates only in one direction. Polarisation can only occur to transverse waves. When transverse waves, like light, pass through a polarisation filter, they become polarised. Two polarisation filters set up at right angles to each other will block out all light, as all directions of energy transfer is blocked.
+
+In the case of microwaves, polarising filters are ineffective, as their wavelengths are too long. Instead **metal grilles** are used to polarise them.
 
 
 
