@@ -1,12 +1,3 @@
-
-
-
-<br>
-
-<br>
-
-<br>
-
 # Imaging and Signalling
 
 **Refraction** occurs when a wave changes speed at a boundary. When a ray of light meets a boundary between one medium and another, some of its energy is lost and reflected back into the first medium, and the rest is transmitted through the second medium. This loss of energy reduces the wave speed, causing refraction.
