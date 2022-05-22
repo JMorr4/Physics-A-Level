@@ -30,3 +30,15 @@
   * [6.2 Charge and Field](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.2/2.2.1.md)
   * [6.3 Probing deep into Matter](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.2/2.2.1.md)
   * [6.4 Ionising Radiation and Risk](https://github.com/JMorr4/Computer-Science/blob/main/Contents/Topic%202.2/2.2.1.md)
+
+<br>
+
+### Physics - Formulas
+
+* **Module 6**
+  * [Component 1](https://github.com/JMorr4/Physics-A-Level/blob/main/Contents/Formulas.md)
+  * [Component 2](https://github.com/JMorr4/Physics-A-Level/blob/main/Contents/Formulas.md)
+
+
+
+
