@@ -39,6 +39,15 @@ Each pixel in an image holds a binary value which corresponds to a colour. This 
 <br>
 
 ## The Electromagnetic Spectrum
+Since waves carry energy away, the source of the wave loses energy. Waves have many key terms that can be difficult to remember:
+- **Displacement** - How far a point on the wave has moved from its undisturbed position
+- **Amplitude** - The maximum displacement
+- **Wavelength** - The length of one wave
+- **Period** - The time taken for one wavelength to pass thorugh a point
+- **Frequency** - The number of wavelengths that pass thorugh a point in one second
+- **Phase difference** - The amount by which one wave lags behind another wave. Measured in **degrees** or **radians**.
+
+<br>
 
 ### Transverse and Longitudinal Waves
 A **transverse** wave oscillates perpendicular to the direction of energy transfer. All **electromagnetic** waves are transverse waves. A **longitudinal** wave oscillates parallel to the direction of energy transfer. One example of a longitudinal wave is **sound**.
@@ -49,6 +58,7 @@ A **standing wave** is the combination of two waves, each with the same amplitud
 - **Constructive** interference, where the energy of both waves are added together.
 - **Destructive** interference, where the energy of both waves are cancelled out.
 
+<br>
 
 ### Polarisation
 A **polarised** wave oscillates only in one direction. Polarisation can only occur to transverse waves. When transverse waves, like light, pass through a polarisation filter, they become polarised. Two polarisation filters set up at right angles to each other will block out all light, as all directions of energy transfer is blocked.
