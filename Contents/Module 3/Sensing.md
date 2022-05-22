@@ -37,6 +37,9 @@ Resistance and resistivity are two different things. Where resistance takes into
 <br>
 
 ### EMF and Internal Resistance
+**Electromotive Force (EMF)** is the energy provided by the source per unit charge.
+
+**Kirchoff's second law** states that the sum of all the voltages across the circuit must be equal to the EMF of the circuit.
 
 
 
