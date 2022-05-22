@@ -39,7 +39,9 @@ Each pixel in an image holds a binary value which corresponds to a colour. This 
 <br>
 
 ## The Electromagnetic Spectrum
-Since waves carry energy away, the source of the wave loses energy. Waves have many key terms that can be difficult to remember:
+**Progressive** waves carry energy away from its source without transferring any material. This means the source of the wave loses energy.
+
+Waves have many key terms that can be difficult to remember:
 - **Displacement** - How far a point on the wave has moved from its undisturbed position
 - **Amplitude** - The maximum displacement
 - **Wavelength** - The length of one wave
