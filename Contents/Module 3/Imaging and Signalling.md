@@ -41,14 +41,16 @@ Each pixel in an image holds a binary value which corresponds to a colour. This 
 ## The Electromagnetic Spectrum
 
 ### Transverse and Longitudinal Waves
-
 A **transverse** wave oscillates perpendicular to the direction of energy transfer. All **electromagnetic** waves are transverse waves. A **longitudinal** wave oscillates parallel to the direction of energy transfer. One example of a longitudinal wave is **sound**.
 
 **Intensity** is the rate of energy flow perpendicular to the direction of energy transfer, for example the sun. It is measured in **Watts per squared metre**.
 
+A **standing wave** is the combination of two waves, each with the same amplitude and frequency, moving in opposite directions. When these waves meet, it can result in two types of interference:
+- **Constructive** interference, where the energy of both waves are added together.
+- **Destructive** interference, where the energy of both waves are cancelled out.
+
 
 ### Polarisation
-
 A **polarised** wave oscillates only in one direction. Polarisation can only occur to transverse waves. When transverse waves, like light, pass through a polarisation filter, they become polarised. Two polarisation filters set up at right angles to each other will block out all light, as all directions of energy transfer is blocked.
 
 In the case of microwaves, polarising filters are ineffective, as their wavelengths are too long. Instead **metal grilles** are used to polarise them.
