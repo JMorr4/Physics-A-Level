@@ -37,10 +37,11 @@ Resistance and resistivity are two different things. Where resistance takes into
 <br>
 
 ### EMF and Internal Resistance
-**Electromotive Force (EMF)** is the energy provided by the source per unit charge.
+**Electromotive Force (EMF)** is the amount of energy provided by the battery to each coulomb of charge passing through.
 
 **Kirchoff's second law** states that the sum of all the voltages across the circuit must be equal to the EMF of the circuit.
 
+The resistance of a battery in a circuit is called **internal resistance**. Most batteries have some internal resistance, which causes the potential difference provided by the battery to be lower than expected.
 
 
 
