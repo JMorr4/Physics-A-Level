@@ -1,6 +1,8 @@
 # Mechanical Properties of Materials
 
-### Hooke's Law
+## Macroscopic Properties of Materials
+
+### Deformation
 
 Hooke's Law says that extension is proportional to force. Hooke's law doesn't just apply to springs and metals, all other materials obey it up to a point.
 
@@ -24,3 +26,29 @@ If forces stretch a material, they are **tensile**. If they squash a material, t
 - Strain is defined as the extension divided by the original length of the material. It has no units, instead it's measured as a **percentage**.
 
 A stress big enough to break a material is called **fracture stress**. The effect of stress pulls atoms away from each other, and in fracture stress, this effect is strong enough to seperate these atoms completely. The point before a material breaks is called the **ultimate tensile strength**. This is the maximum stress a material can withstand before breaking.
+
+
+
+
+
+## Microscopic Properties of Materials
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
