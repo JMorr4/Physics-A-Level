@@ -20,6 +20,8 @@ When current flows in a circuit, particles in the metal wire provide resistance 
 
 <br>
 
+<div style="page-break-before: always;"></div>
+
 ### Resistance and Conductance
 **Resistance** is a measure of the opposition to the flow of current. Resistance is provided by metal ions in the wires/components in a circuit. When electrons flow through the wire/component, they collide with the ions, causing them to slow down.
 
