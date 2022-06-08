@@ -90,10 +90,42 @@ Slit seperation is usually expressed using lines per mm, and can be worked out u
 
 ## Quantum Behaviour
 
+### Quanta
+Light can also be modelled as a ray of **particles**, or **photons**. A photon carries a fixed quantity of energy, called a **quanta**. The energy of a photon of light depends on its frequency.
+
+The energy of waves is usually very small, so is is measured using **electronvolts**. This is the energy transferred when one electron is moved through one volt. The unit for an electronvolt is **eV**, and its value in joules is:
+
+![image](https://user-images.githubusercontent.com/90699946/172577017-8f60b18c-7eed-4661-b4b1-7a2ca945853a.png)
+
+<br>
+
+### The Photoeletric Effect
+The **photoelectric effect** occurs when light rays meet the surface of a metal. The quantas of energy carried by the photons are absorbed by the metal, causing them to move up to a higher energy level. 1 photon is absorbed by 1 electron to form 1 **photoelectron**.
+
+**Intensity** is the amount of energy per second per unit area. The more intense the light is, the more electrons are emitted per second.
+
+The number of emitted electrons depends on the intensity, and the energy of these electrons depends on the **frequency**. The higher the frequency of light, the higher the energy of the photoelectrons.
+
+However, the frequency has to be above a certain level called the **threshold frequency**, otherwise no electrons will be emitted at all. The corresponding energy, called the **work function**, is the amount of energy required to liberate electrons from the surface of the metal.
+
+The maximum energy of emitted electrons can be worked out using the formula:
+
+<img src="https://user-images.githubusercontent.com/90699946/172582076-bafb0793-fe45-4480-9709-bfee8abfb5ad.png" align="right" width="200px"/>
+
+```
+Φ = work function of the metal
+h = Planck's constant
+f = photon frequency
+```
+
+<br clear="right"/>
 
 
 
-**Intensity** is the rate of energy flow perpendicular to the direction of energy transfer, for example the sun. It is measured in **Watts per squared metre**.
+
+
+
+
 
 
 
