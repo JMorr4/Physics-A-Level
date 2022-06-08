@@ -58,7 +58,40 @@ Standing waves can also form with longitudinal waves.
 
 <br clear="right"/>
 
-## Refraction
+## Refraction and Diffraction
+
+### Refraction
+**Refraction** is the change in wave speed when it reaches a boundary between two mediums.
+
+<img src="https://user-images.githubusercontent.com/90699946/172566987-576a95fd-ea18-4433-a0e1-315438c37d54.png" align="right" width="220px"/>
+
+- The **refractive index** is the ratio of the speed of light between two different mediums.
+- The **absolute refractive index** of a material is the ratio of the speed of light in that material to the speed of light in a vacuum.
+- **Snell's law** joins the refractive index to the angles of incidence and refraction with the formula:
+
+![image](https://user-images.githubusercontent.com/90699946/172568570-8b7f8928-baae-4d69-9c9f-6284338b1dc3.png)
+
+**Huygens' wavelet model** helps to explain refraction. He described a wave of light being made up of many smaller wavelets. As the wave reaches a boundary at an angle, the wavelets which reach it first slow down, causing the wave to bend towards the slower wavelets.
+
+<br clear="right"/>
+
+### Diffraction
+**Diffraction** is the spreading out of waves when they pass through a gap which is roughly the same width as their wavelength.
+
+**Young's double slit experiment** uses diffraction. Light passes though two small slits and spreads out. The waves fom each slit **interfere** with each other, producing patterns of light (antinodes), and dark fringes (nodes) on a screen.
+
+**Diffraction gratings** have multiple slits, but work the same way. The distance between each of these slits is called the **slit seperation**. The distance between the patterns of light produced on the screen is called the **fringe spacing**.
+
+<img src="https://user-images.githubusercontent.com/90699946/172571651-cb587374-e49c-47c3-9a19-6970552f6521.png" align="right"/>
+
+Slit seperation is usually expressed using lines per mm, and can be worked out using the formula:
+
+<br clear="right"/>
+
+## Quantum Behaviour
+
+
+
 
 **Intensity** is the rate of energy flow perpendicular to the direction of energy transfer, for example the sun. It is measured in **Watts per squared metre**.
 
