@@ -120,6 +120,25 @@ f = photon frequency
 
 <br clear="right"/>
 
+LEDs rely on the photoelectric effect and can be used to determine **Planck's constant**.
+- Find the **striking voltage** (minimum p.d which causes light to show) of a number of LEDs which produce light of known frequencies.
+- Use ```E = QV``` and ```Φ = hf``` to work out ```h```.
+
+<br>
+
+### Line Spectra
+The opposite of the photoelectric effect occurs when electrons in atoms lose their energy and drop down to a lower energy level, releasing light.
+
+This occurs when atoms cool, for example when stars, like the sun, lose energy.
+
+### Quantum Model of Light
+The **quantum behaviour** of a ray of light is modelled as taking every possible path between where it is emitted and where it is detected. These paths can be mapped out using **phasor arrows**, where the largest resultant phasor shows where the light is strongest.
+
+### Electron Diffraction
+Electrons have been observed to diffract the same way as light to produce diffraction patterns. This is evidence of electrons showing **wave behaviour**, which suggests that electrons have other wave properties such as wavelength. The **de Broglie** equation provides a way to work this out.
+
+
+
 
 
 
