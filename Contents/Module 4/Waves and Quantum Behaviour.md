@@ -32,11 +32,35 @@ Waves have some key terms that can be difficult to remember:
 
 <br clear="right"/>
 
-### Path Difference
+### Path difference
 **Path difference** is the difference between the distance travelled by two waves when they meet. A path difference of:
 - A multiple of ```distance × λ``` produces waves **in phase**.
 - ```(distance + ½)λ``` produces waves in **antiphase**.
 - Anything inbetween produces waves **out of phase**.
+
+<br>
+
+## Standing Waves
+
+### Transverse waves
+A **standing wave** is the combination of two waves, each with the same amplitude and frequency, moving in opposite directions. When these waves meet, it can result in two types of **interference**:
+- **Constructive** interference, where the energy of both waves are added together. This occurs when the waves are in phase, producing **antinodes**.
+- **Destructive** interference, where the energy of both waves are cancelled out. This occurs when the waves are in antiphase, producing **nodes**.
+
+### Longitudinal waves
+Standing waves can also form with longitudinal waves.
+
+<img src="https://user-images.githubusercontent.com/90699946/172559314-927fc27b-b7c8-43b0-9ae1-f8ba62cfee0b.png" align="right" width="35px"/>
+
+- In air tubes, sound waves travel along the tube, reflect at the end, and travel back. When the reflected waves meet the initial waves they cause **interference**.
+- In an air tube, **antinodes** always form at open ends, and **nodes** always form at closed ends.
+- Using the distance between two consecutive nodes, and the frequency, we can work out the speed of sound in air using the formula: ```frequency = velocity /  wavelength```
+
+<br clear="right"/>
+
+## Refraction
+
+**Intensity** is the rate of energy flow perpendicular to the direction of energy transfer, for example the sun. It is measured in **Watts per squared metre**.
 
 
 
