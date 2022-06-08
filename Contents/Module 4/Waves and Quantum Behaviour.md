@@ -32,7 +32,12 @@ Waves have some key terms that can be difficult to remember:
 
 <br clear="right"/>
 
-## Path Difference
+### Path Difference
+**Path difference** is the difference between the distance travelled by two waves when they meet. A path difference of:
+- A multiple of ```distance × λ``` produces waves **in phase**.
+- ```(distance + ½)λ``` produces waves in **antiphase**.
+- Anything inbetween produces waves **out of phase**.
+
 
 
 
