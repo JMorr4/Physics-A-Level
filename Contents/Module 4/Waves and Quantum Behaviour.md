@@ -110,7 +110,7 @@ However, the frequency has to be above a certain level called the **threshold fr
 
 The maximum energy of emitted electrons can be worked out using the formula:
 
-<img src="https://user-images.githubusercontent.com/90699946/172582076-bafb0793-fe45-4480-9709-bfee8abfb5ad.png" align="right" width="200px"/>
+<img src="https://user-images.githubusercontent.com/90699946/172583305-f75321b2-37b7-4c6a-b980-48f05111a635.png" align="right" width="110px"/>
 
 ```
 Φ = work function of the metal
