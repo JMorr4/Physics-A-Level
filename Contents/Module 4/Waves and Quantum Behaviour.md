@@ -24,7 +24,7 @@ Waves have some key terms that can be difficult to remember:
 <br clear="right"/>
 
 ### Phase difference
-<img src="https://user-images.githubusercontent.com/90699946/172553848-cf1cda0e-4884-412a-a54c-8f2f966faa66.png" align="right" width="100px"/>
+<img src="https://user-images.githubusercontent.com/90699946/172553848-cf1cda0e-4884-412a-a54c-8f2f966faa66.png" align="right" width="80px"/>
 
 - **Resultant phasors** can be worked out like resultant vectors, where the scale arrows are drawn tip to tail, then connected by a resultant arrow.
 - The angle can then be measured from a scale drawing using trigonometry.
