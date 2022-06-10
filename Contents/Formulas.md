@@ -1,18 +1,5 @@
 # Formulas
 
-## Imaging and Signalling
+![image](https://user-images.githubusercontent.com/90699946/173151897-b64b649c-1be2-4020-a1b7-60adab140f1b.png)
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;power=\frac{1}{focalLength}" align="right"/>
-
-<img src= "https://latex.codecogs.com/svg.latex?\Large&space;curvature=\frac{1}{radius}">
-
-ㅤ
-
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;Magnification=\frac{imageHeight}{objectHeight}" align="right"/>
-
-<img src= "https://latex.codecogs.com/svg.latex?\Large&space;\frac{1}{v}=\frac{1}{u}+\frac{1}{f}">
-
-ㅤ
-
-<img src= "https://latex.codecogs.com/svg.latex?\Large&space;waveSpeed=frequency*wavelength">
-
+![image](https://user-images.githubusercontent.com/90699946/173151928-1b62c177-f612-4264-b99c-120ca695d186.png)
